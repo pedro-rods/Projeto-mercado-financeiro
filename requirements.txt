@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+SQLAlchemy
+psycopg[binary,pool]==3.2.3
+alembic
+pandas
+numpy
+yfinance
+backtrader
+python-dotenv
+pytest
+httpx
+loguru
